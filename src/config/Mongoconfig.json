@@ -1,0 +1,4 @@
+{
+    "MONGOLOCAL": "mongodb://localhost:27017/ecommerce",
+    "MONGOATLAS": "mongodb+srv://lolo.gonz19@gmail.com:lange4421@clustersito.m8vi1rp.mongodb.net/test"
+}
